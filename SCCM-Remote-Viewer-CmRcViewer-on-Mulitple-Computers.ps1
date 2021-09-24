@@ -1,5 +1,6 @@
 <# This connects SCCM Remote Viewer to multiple computers listed in C:\temp\computers.txt
 Create and enter the computer names or IP address's in C:\temp\computers.txt
+Copy and paste the contents of this script into an elevated powershell terminal.
 Created by Aric Galloso, 9/24/2021
 #>
 
